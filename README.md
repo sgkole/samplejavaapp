@@ -1,4 +1,4 @@
 
 Sample Java Applicaiton V3.0
 
-Testing automatic jenkins trigger
+Testing build pipeline view
